@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Francesco Sarno. I work as research assistant at the Computer Vision Lab, ETH Zurich, supervised by Dr. Suryansh Kumar and Prof. Dr. Luc Van Gool. I am exploring view synthesis and automated machine learning fields.
+
 <!--
 **francescosarno/francescosarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
