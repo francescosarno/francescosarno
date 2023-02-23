@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Francesco Sarno. I work as a computer vision research engineer at the Computer Vision Lab, EPFL, supervised by Prof. Dr. Pascal Fua.
+I am Francesco Sarno. I work as a computer vision and robotics research engineer at Swiss Innovation Park Biel/Bienne in the Swiss Battery Technology Center.
 
 <!--
 **francescosarno/francescosarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
