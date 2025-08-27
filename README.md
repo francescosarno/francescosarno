@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Francesco Sarno. I work as a computer vision and robotics research engineer at Switzerland Innovation Park Biel/Bienne in the Swiss Battery Technology Center.
+I am Francesco Sarno. I work as a computer vision R&D engineer at X23D AG.
 
 <!--
 **francescosarno/francescosarno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
